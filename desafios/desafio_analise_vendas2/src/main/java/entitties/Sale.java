@@ -59,16 +59,6 @@ public class Sale {
     }
 
     @Override
-    public String toString() {
-        return month +"/"+ year + ", " + seller + ", " +
-                items + ", " + total + ", pm = " + (String.format("%.2f", averagePrice()));
-    }
-
-    public Double averagePrice(){
-        return total/items;
-    }
-
-    @Override
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
