@@ -1,0 +1,15 @@
+Pablo Marcal,358
+Boulos,122
+Nunes,75
+Tabata,98
+Maria Helena,112
+Pablo Marcal,458
+Boulos,221
+Nunes,175
+Tabata,48
+Maria Helena,12
+Pablo Marcal,158
+Boulos,102
+Nunes,175
+Tabata,38
+Maria Helena,42
